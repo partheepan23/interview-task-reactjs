@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .popup {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .blue-box {
+    display: inline-block;
+    vertical-align: top;
+  }
